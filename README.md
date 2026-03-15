@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Conecta conmigo:</h3>**
-<p align="left"><a href="https://github.com/AngelMansilla" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/angelmansilla" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/mansilla_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/AngelMansilla" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/angelmansilla" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="[https://twitter.com/mansilla_dev](https://x.com/mansillaBuilds)" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 **<h3 align="left">🏗️ Backend Developer especializado en Java / Spring Boot con experiencia en banca y seguros.<br>
 🎯 Orientado a arquitecturas limpias: hexagonal, Domain-Driven Design y microservicios bien diseñados.<br>
