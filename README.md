@@ -1,37 +1,38 @@
-![👋 Hi, my name is Ángel Mansilla](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+![👋 Hola, soy Ángel Mansilla](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=AngelMansilla&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=AngelMansilla&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Ángel Mansilla
+        👋 Hola, soy Ángel Mansilla
       </h1>
     </summary>
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
+**<h3 align="left">Conecta conmigo:</h3>**
 <p align="left"><a href="https://github.com/AngelMansilla" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/angelmansilla" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/mansilla_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">💻 Versatile Full Stack Developer experienced in Java (Spring Boot) and JavaScript (Angular/React), building and maintaining robust enterprise applications and REST APIs.<br>
-🏦 Proven experience in consulting and financial/insurance sectors, adapting to both legacy (PL/I) and modern technologies (microservices) 🔄.<br>
-✅ Focused on quality, efficiency, and security 🔒, skilled in clean architectures, problem-solving, and agile methodologies.<br>
-✨ Seeking to add value through solid technical solutions, effective collaboration 🤝, and continuous learning 💡 in challenging projects.</h3>**
+**<h3 align="left">🏗️ Backend Developer especializado en Java / Spring Boot con experiencia en banca y seguros.<br>
+🎯 Orientado a arquitecturas limpias: hexagonal, Domain-Driven Design y microservicios bien diseñados.<br>
+✅ Convencido de que el testing riguroso no es opcional — es parte del producto.<br>
+🤝 Disponible para nuevas oportunidades donde la calidad técnica y el impacto de negocio importen.</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left">En resumen</h3>**
 
-- 💼 I'm currently working on: **💻Developing & maintaining full-stack applications (Java/Spring Boot & Angular).**
-- 🌱 I'm currently learning: **🚀 Mastering microservice architecture best practices.**
-- 💬 Ask me about: **💡 Java (Spring Boot), JavaScript (Angular, React), REST APIs, Microservices.**
-- ⚡ Fun fact: **🕰️ I once traveled back in time... by accidentally reverting the wrong Git commit.**
+- 💼 Actualmente trabajando en: **Diseño y desarrollo de microservicios con Java/Spring Boot en entornos financieros.**
+- 🌱 Profundizando en: **Domain-Driven Design, arquitectura hexagonal y patrones de resiliencia en microservicios.**
+- 💬 Pregúntame sobre: **Java, Spring Boot, arquitectura de software, testing (TDD/BDD), REST APIs.**
+- 🔍 Abierto a: **Nuevas oportunidades en backend — banca, seguros, fintech o sectores con retos técnicos reales.**
+- ⚡ Curiosidad: **🕰️ Viajé en el tiempo una vez... revertiendo sin querer el commit equivocado en producción.**
 
- **<h3 align="left">Skills</h3>**
+**<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="32" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="32" alt="Spring" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="32" alt="Angular" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" height="32" alt="Oracle" style="margin-right: 4px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="32" alt="jQuery" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="32" alt="Jenkins" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="32" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="32" alt="Spring" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white" height="32" alt="Spring Boot" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Microservices-0e75b6?logo=cloud&logoColor=white" height="32" alt="Microservices" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="32" alt="Angular" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" height="32" alt="Oracle" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="32" alt="Jenkins" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white" height="32" alt="JUnit" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Mockito-78C257?logoColor=white" height="32" alt="Mockito" style="margin-right: 4px"></div>
 
- **<h3 align="left">GitHub Stats</h3>**
+**<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=angelmansilla&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
@@ -42,6 +43,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelmansilla&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
- **<h3 align="left">Support Me</h3>**
+**<h3 align="left">Invítame a un café</h3>**
 
 <p align="left"><a href="https://buymeacoffee.com/angelmansilla" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=plastic&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a></p>
